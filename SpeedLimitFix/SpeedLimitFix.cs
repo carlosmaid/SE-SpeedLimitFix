@@ -32,7 +32,7 @@ namespace SpeedLimitFix
         const string TextOutdatedTitle = @"Speed Limit Fix is outdated";
         const string TextDisabledTitle = @"Speed Limit Fix is disabled";
 
-        Version fixVersion = new Version("0.1");
+        Version fixVersion = new Version("1.0");
         string configPath = null;
 
         public static SpeedLimitFix Shared = null;
